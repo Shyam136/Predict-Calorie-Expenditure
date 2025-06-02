@@ -108,8 +108,8 @@ This project demonstrates my ability to iterate on model development, apply adva
 ## 🔗 References and Links
 
 - [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s5e5)
-- [Version 1 Notebook (GitHub/Colab Link)](ADD_YOUR_LINK_HERE)
-- [Version 2 Notebook (GitHub/Colab Link)](ADD_YOUR_LINK_HERE)
+- [Version 1 Notebook (GitHub/Colab Link)](https://www.kaggle.com/code/shyam136/predict-calorie-expenditure)
+- [Version 2 Notebook (GitHub/Colab Link)](https://www.kaggle.com/code/shyam136/predict-calorie-expenditure-v2)
 - [My Kaggle Profile](https://www.kaggle.com/shyam136)
 
 ---
