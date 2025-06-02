@@ -74,7 +74,8 @@ This document summarizes my iterative approach, comparing two versions of the no
 ## 6️⃣ Results and Performance
 
 - **Best Public Leaderboard Score**: 0.05906
-- **Private Leaderboard Score**: 0.05906 (final official ranking).
+- **Private Leaderboard Score**: 0.05906
+- **Final Rank**: 2227 out of 5000+ participants.
 - Notebook validation scores closely matched leaderboard scores, reinforcing model stability.
 
 ---
